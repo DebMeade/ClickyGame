@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Alaskan Malamute",
+    "image": "./img/alaskanMalamute.jpg"
+  },
+    {
+      "id": 2,
+      "name": "Bloodhound",
+      "image": "./img/bloodhound.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Doberman",
+      "image": "./img/doberman.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Golden",
+      "image": "./img/golden.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Great Dane",
+      "image": "./img/greatDane.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Greyhound",
+      "image": "./img/greyhound.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Husky",
+      "image": "./img/husky.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Italian Greyhound",
+      "image": "./img/italianGreyhound.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Pitbull",
+      "image": "./img/pitbull.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Shiba Inu",
+      "image": "./img/shibaInu.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Springer Spaniel",
+      "image": "./img/springerSpaniel.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Westie",
+      "image": "./img/westie.jpg"
+    }
+]
