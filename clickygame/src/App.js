@@ -66,15 +66,14 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
+          <Title>
+            Click on each dog but only click on each picture once if you want to win!
+            </Title>
         <Nav
           title="Dog Clicky Game"
           score={this.state.score}
           highScore={this.state.highScore}
           />
-
-          <Title>
-            Click on each dog but only click on each picture once if you want to win!
-            </Title>
             {this.state.dogs.map(dog => (
               <DogCard
               key={dog.id}
